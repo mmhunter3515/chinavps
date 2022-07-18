@@ -78,3 +78,110 @@ Chengdu   CM      1.40 Mbit/s       20.87 Mbit/s        42.313 ms
 中国国内vps服务器有条件就买阿里云腾迅云华为云之类，其他杂七杂八的云服务器或者VPS放在最后考虑。买阿里腾讯这类的国内服务器基本没什么好测试的，我们考虑好自己需求的配置以及带宽大小即可。
 
 这里特意提醒一下，有个别小服务商搞的贵州地区的服务器，尽量不要买。我见了好些贪便宜买了一用气的骂娘的。虽然在国内，但是网络真的不稳定。尽量选北上广、河南、江苏等地的服务器。其他的什么陕西、贵州、山东、内蒙古等地尽量不要选
+
+## 阿里云
+
+需要更多覆盖中国大陆？
+
+阿里云可能拥有中国最多的数据中心位置。
+
+- Hangzhou
+- Shanghai
+- Qingdao
+- Beijing
+- Zhangjiakou
+- Shenzhen
+- 香港
+
+如果您不是来自中国并且需要**ICP**申请支持，那么阿里云将是一个救命稻草。
+
+![svg%3E](https://geekflare.com/cdn-cgi/image/width=800,height=585,fit=crop,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2017/12/alibaba-cloud-1.png)
+
+![](https://geekflare.com/cdn-cgi/image/width=800,height=585,fit=crop,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2017/12/alibaba-cloud-1.png)
+
+[与AWS类似，阿里云提供了CDN](https://geekflare.com/free-cdn-list/)、VM、负载均衡、数据库、备份、存储等全方位的基础设施服务。
+
+## 广州国际数据中心
+
+[GZIDC](https://www.gzidc.com/)提供了大量的托管相关服务，包括以下内容。
+
+- 虚拟主机
+- 域名注册
+- 云服务
+- 主机租赁
+- 以及更多…
+
+在云服务下，您可以选择将您的应用程序托管在以下多线 DC 中。
+
+- Guangdong
+- 华南和华北
+- 香港
+
+## 西部数据
+
+[West](https://www.west.cn/)是另一种流行的提供多合一托管解决方案。West 在该行业拥有超过 15 年的经验，在支持和正常运行时间方面享有盛誉。
+
+## 哈邦网
+
+为WordPress优化托管，[HaBangNet](http://www.habangnet.com/chinasharedhosting.html)服务器位于北京。
+
+入门计划的费用约为每月 10 美元，它附带 cPanel，您可以在其中安装自己喜欢的软件，如 Joomla、WordPress 等。
+
+在入门计划中，您可以获得 5GB SSD 存储、一个免费域、100GB 带宽等。
+
+## Jinshan Cloud
+
+[金山云](http://www.ksyun.com/)是中国三大公有云之一。他们有多种产品。
+
+- 服务器
+- 数据库
+- 对象存储
+- 内容分发网络
+- 负载均衡
+- 安全相关
+- 视频解决方案
+- 网络应用防火墙
+
+金山可在 19 个数据中心使用。
+
+##  腾讯
+
+[腾讯云](https://cloud.tencent.com/?lang=en)受到全球超过10,000名开发者的信赖，包括QQ、微信等中国热门产品。
+
+![svg%3E](https://geekflare.com/cdn-cgi/image/width=800,height=106,fit=crop,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2017/12/tencent-cloud.png)
+
+![](https://geekflare.com/cdn-cgi/image/width=800,height=106,fit=crop,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2017/12/tencent-cloud.png)
+
+使用腾讯很容易配置服务器和其他云服务，并且您为使用的东西付费。
+
+如果您是初创公司或在传统数据中心运营现有业务，则值得将腾讯列入名单，同时以更低的成本迁移云。
+
+## 百度云
+
+百度不仅是谷歌搜索的竞争对手，也是云。您可以选择在北京、广州、苏州和香港举办。
+
+与 GCP 类似，[百度云](https://cloud.baidu.com/)有计算、网络、存储、数据库、大数据、人工智能等许多 IaaS 产品。
+
+## 优云
+
+[Ucloud](https://www.ucloud.cn/)已服务超过50,000家企业客户，拥有全球21个数据中心，其中中国5个。
+
+![svg%3E](https://geekflare.com/cdn-cgi/image/width=674,height=328,fit=crop,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2017/12/ucloud.jpg)
+
+![](https://geekflare.com/cdn-cgi/image/width=674,height=328,fit=crop,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2017/12/ucloud.jpg)
+
+它拥有丰富的控制面板来管理云服务和最近的容器服务。您可以使用他们的[定价计算器](https://www.ucloud.cn/site/calculator.html#!/uhost)来估算所需云服务的成本。
+
+## 天蓝色
+
+[微软 Azure](https://azure.microsoft.com/en-gb/)提供超过 100 种云产品，并在华东和华北设有数据中心。
+
+![svg%3E](https://geekflare.com/cdn-cgi/image/width=900,height=487,fit=crop,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2019/09/azure-region.png)
+
+![](https://geekflare.com/cdn-cgi/image/width=900,height=487,fit=crop,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2019/09/azure-region.png)
+
+Azure 有助于运营内部业务并希望将云扩展到中国。您无需担心与两个供应商打交道——您的所有账单都集中在一个地方。
+
+### 结论
+
+中国市场是独一无二的，我希望以上内容能帮助您找到最适合您在中国的业务的托管服务。
