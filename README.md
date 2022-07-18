@@ -129,7 +129,7 @@ Chengdu   CM      1.40 Mbit/s       20.87 Mbit/s        42.313 ms
 
 在入门计划中，您可以获得 5GB SSD 存储、一个免费域、100GB 带宽等。
 
-## Jinshan Cloud
+## 金山云
 
 [金山云](http://www.ksyun.com/)是中国三大公有云之一。他们有多种产品。
 
@@ -172,7 +172,7 @@ Chengdu   CM      1.40 Mbit/s       20.87 Mbit/s        42.313 ms
 
 它拥有丰富的控制面板来管理云服务和最近的容器服务。您可以使用他们的[定价计算器](https://www.ucloud.cn/site/calculator.html#!/uhost)来估算所需云服务的成本。
 
-## 天蓝色
+## 微软 Azure
 
 [微软 Azure](https://azure.microsoft.com/en-gb/)提供超过 100 种云产品，并在华东和华北设有数据中心。
 
@@ -182,6 +182,6 @@ Chengdu   CM      1.40 Mbit/s       20.87 Mbit/s        42.313 ms
 
 Azure 有助于运营内部业务并希望将云扩展到中国。您无需担心与两个供应商打交道——您的所有账单都集中在一个地方。
 
-### 结论
+## 结论
 
 中国市场是独一无二的，我希望以上内容能帮助您找到最适合您在中国的业务的托管服务。
